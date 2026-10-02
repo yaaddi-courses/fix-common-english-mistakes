@@ -1,0 +1,466 @@
+id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,explanation
+1,1,true_false,preview,2,Their and there sound alike but mean different things.,,true,,,True. Words that sound alike but differ in spelling and meaning are called homophones.
+2,1,multiple_choice,main,,What is a homophone?,Sound-alike word|Silent letter|Spelling rule,0,,,"Words that sound alike but differ in spelling and meaning are homophones, like their and there."
+3,1,multiple_choice,exercise,2,Which pair are homophones?,"Big, large|Here, hear|Hot, cold",1,,,Here and hear sound identical but have different spellings and meanings.
+4,1,true_false,exercise,2,Two and too are homophones.,,true,,,True. They sound the same but are spelled and used differently.
+5,1,true_false,exercise,2,Big and large are homophones.,,false,,,"False. They have similar meanings but sound different, so they are not homophones."
+6,1,true_false,preview,7,They're is a short form of they are.,,true,,,True. A short form like this is a contraction.
+7,1,multiple_choice,main,,What does the apostrophe show in they're?,Emphasis|Ownership|Missing letters,2,,,A contraction joins two words into one. They're is a short form of they are; the apostrophe marks the missing letters.
+8,1,select_blank,exercise,7,Don't is a short form of do ___.,not|no|now,0,,,"In don't, the apostrophe replaces the o in not."
+9,1,true_false,exercise,7,The apostrophe in I'm replaces the letter a.,,true,,,True. I'm is I am with the a left out.
+10,1,multiple_choice,exercise,7,What is you're short for?,You were|You are|You have,1,,,"You're is a contraction of you are, with the apostrophe marking the missing a."
+11,1,multiple_choice,exercise,7,Which is a contraction?,Is not|Island|Isn't,2,,,"Isn't squeezes is not into one word, with an apostrophe for the missing o."
+12,1,true_false,preview,13,Maria's car shows the car belongs to Maria.,,true,,,True. The 's shows ownership.
+13,1,multiple_choice,main,,What does a possessive show?,Ownership|Missing letters|Past events,0,,,"A possessive shows who owns something, like their book or Maria's car."
+14,1,true_false,exercise,13,"Maria's, in Maria's car, is a possessive.",,true,,,True. It shows that the car belongs to Maria.
+15,1,multiple_choice,exercise,13,Which shows ownership?,They're late|Their book|Isn't it,1,,,Their book shows whose book it is. They're late is a contraction of they are.
+16,1,true_false,exercise,13,They're is a possessive.,,false,,,False. They're is a contraction of they are. Their is the possessive.
+17,1,true_false,preview,18,Their shows ownership; there points to a place.,,true,,,True. They're is the third one: a contraction of they are.
+18,1,multiple_choice,main,,Which means they are?,Their|There|They're,2,,,"Their shows ownership (their car), there points to a place (over there), and they're is the contraction of they are."
+19,1,select_blank,exercise,18,___ going to be late.,They're|Their|There,0,,,"They are going to be late, so they're is right."
+20,1,select_blank,exercise,18,That is ___ car.,there|their|they're,1,,,"The car belongs to them, so use the possessive their."
+21,1,select_blank,exercise,18,Put the box over ___.,their|they're|there,2,,,There points to a place.
+22,1,multiple_choice,exercise,18,Which shows ownership?,Their|There|They're,0,,,"Their is the possessive: their house, their idea."
+23,1,true_false,exercise,18,'Their going home' is correct.,,false,,,False. You need they are: They're going home.
+24,1,true_false,exercise,18,There can point to a place.,,true,,,True. Over there and in there both point to a place.
+25,2,true_false,preview,26,"Your, with no apostrophe, shows ownership.",,true,,,True. You're is the contraction of you are.
+26,2,multiple_choice,main,,Which means you are?,Your|You're|You,1,,,"You're is the contraction of you are. Your, with no apostrophe, shows ownership, like your phone."
+27,2,select_blank,exercise,26,___ welcome to join us.,Your|You|You're,2,,,"You are welcome, so use the contraction."
+28,2,select_blank,exercise,26,Is that ___ phone?,your|you're|you,0,,,"The phone belongs to you, so use the possessive your."
+29,2,true_false,exercise,26,'Your welcome' is correct when thanking someone.,,false,,,"False. You mean you are welcome, so write You're welcome."
+30,2,multiple_choice,exercise,26,Which shows ownership?,You're|Your|You,1,,,"Your is the possessive: your coat, your idea."
+31,2,true_false,preview,32,It's is a short form of it is.,,true,,,True. It's can also mean it has.
+32,2,multiple_choice,main,,Which means it is?,Its|Is it|It's,2,,,"It's is a short form of it is (or it has). Its, with no apostrophe, shows ownership, like its tail."
+33,2,select_blank,exercise,32,The dog wagged ___ tail.,its|it's|it,0,,,"The tail belongs to the dog, so use the possessive its."
+34,2,select_blank,exercise,32,___ raining today.,Its|It's|Is,1,,,"It is raining, so use the contraction."
+35,2,true_false,exercise,32,Its has an apostrophe when it shows ownership.,,false,,,False. Possessive its has no apostrophe. It's always means it is or it has.
+36,2,multiple_choice,exercise,32,Pick the correct sentence.,Its late.|Its' late.|It's late.,2,,,"It's late means it is late, so the apostrophe is needed."
+37,2,true_false,preview,38,"Whose, with no apostrophe, asks about ownership.",,true,,,True. Who's is the contraction of who is or who has.
+38,2,multiple_choice,main,,Which asks about ownership?,Whose|Who's|Who,0,,,"Whose, with no apostrophe, asks who owns something: Whose coat is this? Who's is a contraction of who is or who has."
+39,2,select_blank,exercise,38,___ coat is this?,Who's|Whose|Who,1,,,"You are asking who owns the coat, so use whose."
+40,2,select_blank,exercise,38,___ coming to dinner?,Whose|Who|Who's,2,,,"Who is coming, so use the contraction."
+41,2,true_false,exercise,38,Whose asks who owns something.,,true,,,True. Whose book is this? asks about ownership.
+42,2,multiple_choice,exercise,38,Who's is short for what?,Who is|Whose|Who was,0,,,Who's is the contraction of who is (or who has).
+43,3,true_false,preview,44,"Two is a number, and too means also.",,true,,,True. To is a third word with a different job.
+44,3,multiple_choice,main,,Which means also?,To|Too|Two,1,,,"Two is the number 2, too means also or more than enough, and to points toward something, like going to school."
+45,3,select_blank,exercise,44,I want to come ___.,to|two|too,2,,,"Too means also, so I want to come also."
+46,3,select_blank,exercise,44,She has ___ cats.,two|too|to,0,,,The number 2 is spelled two.
+47,3,select_blank,exercise,44,We walked ___ the park.,too|to|two,1,,,To points toward a place.
+48,3,select_blank,exercise,44,It's ___ hot to run.,to|two|too,2,,,Too can mean more than enough: more hot than is comfortable.
+49,3,true_false,exercise,44,Too can mean more than enough.,,true,,,"True. Too much, too late and too hot all mean more than enough."
+50,3,true_false,exercise,44,'I'm going too the store' is correct.,,false,,,False. Going toward a place takes to: I'm going to the store.
+51,3,true_false,preview,52,Than is used to compare two things.,,true,,,True. Then is about time or order.
+52,3,multiple_choice,main,,Which word compares things?,Than|Then|Thin,0,,,"Than is used to compare two things (bigger than). Then is about time or order, like first this, then that."
+53,3,select_blank,exercise,52,She is taller ___ me.,then|than|that,1,,,Than compares two people.
+54,3,select_blank,exercise,52,"First eat, ___ rest.",than|them|then,2,,,Then shows what comes next.
+55,3,true_false,exercise,52,'Better then me' is correct.,,false,,,"False. You are comparing, so write better than me."
+56,3,multiple_choice,exercise,52,Which tells what comes next?,Then|Than|Thin,0,,,Then is used for time and sequence.
+57,3,true_false,preview,58,Many common words have a sound-alike twin.,,true,,,True. Learning each pair's job stops most mix-ups.
+58,3,multiple_choice,main,,Which is short for they are?,Their|They're|There,1,,,They're is the contraction of they are. Their shows ownership and there points to a place.
+59,3,select_blank,exercise,58,Is that ___ umbrella?,you're|you|your,2,,,"The umbrella belongs to you, so use your."
+60,3,select_blank,exercise,58,The cat licked ___ paw.,its|it's|it,0,,,"The paw belongs to the cat, so use its."
+61,3,select_blank,exercise,58,He is older ___ me.,then|than|that,1,,,Than compares two people.
+62,3,select_blank,exercise,58,I have ___ tickets.,to|too|two,2,,,The number 2 is spelled two.
+63,3,match_pairs,exercise,58,Match each word to its meaning.,They're↔They are|Their↔Belongs to them|There↔In that place|You're↔You are,,,,Each word has one job; the apostrophe versions are contractions.
+64,3,true_false,exercise,58,Whose and who's mean the same thing.,,false,,,False. Whose asks about ownership; who's means who is or who has.
+65,3,order,exercise,58,"Order words into a sentence, first to last.",Its|tail|wagged,,,,"Its tail wagged. Its shows ownership, so it has no apostrophe."
+66,4,true_false,preview,67,Affect means to influence something.,,true,,,True. Effect usually means a result.
+67,4,multiple_choice,main,,What does affect mean?,To influence|A result|To finish,0,,,"Affect means to influence; effect means a result. Rain can affect traffic, and one effect is delays."
+68,4,select_blank,exercise,67,Rain can ___ traffic.,effect|affect|defect,1,,,"Rain influences traffic, so use affect."
+69,4,select_blank,exercise,67,The medicine had no ___.,affect|affection|effect,2,,,"You are naming a result, so use effect."
+70,4,true_false,exercise,67,Effect means a result.,,true,,,True. A side effect is a result of a medicine.
+71,4,multiple_choice,exercise,67,Which means to influence?,Affect|Effect|Infect,0,,,Affect is what you do; effect is what you get.
+72,4,true_false,preview,73,Except means other than.,,true,,,True. Accept means to receive or agree to.
+73,4,multiple_choice,main,,Which means to receive?,Except|Accept|Expect,1,,,Accept means to receive or agree to something; except means other than. I accept the gift. Everyone came except Sam.
+74,4,select_blank,exercise,73,Please ___ my apology.,except|expect|accept,2,,,You are asking someone to receive your apology.
+75,4,select_blank,exercise,73,Everyone left ___ Maya.,except|accept|expect,0,,,Everyone other than Maya left.
+76,4,true_false,exercise,73,Except means to receive a gift.,,false,,,False. Except means other than; accept means to receive.
+77,4,multiple_choice,exercise,73,Which means other than?,Accept|Except|Expert,1,,,Except excludes someone or something.
+78,4,true_false,preview,79,Loose means not tight.,,true,,,True. Lose means to misplace or fail to win.
+79,4,multiple_choice,main,,Which word means not tight?,Lose|Loss|Loose,2,,,Loose (rhymes with goose) means not tight; lose (rhymes with shoes) means to misplace or fail to win.
+80,4,select_blank,exercise,79,Don't ___ your keys.,lose|loose|lost,0,,,"You do not want to misplace them, so use lose."
+81,4,select_blank,exercise,79,These pants are too ___.,lose|loose|lost,1,,,Not tight means loose.
+82,4,true_false,exercise,79,Lose means not tight.,,false,,,False. Loose means not tight; lose means to misplace.
+83,4,multiple_choice,exercise,79,Which means to misplace?,Loose|Loss|Lose,2,,,Lose has one o and means to misplace or fail to win.
+84,4,true_false,preview,85,Advice is the help you give someone.,,true,,,True. Advise is what you do when you give it.
+85,4,multiple_choice,main,,Which means to recommend?,Advise|Advice|Advices,0,,,Advice is the help you give someone; advise (rhymes with wise) means to recommend. I advise you to take my advice.
+86,4,select_blank,exercise,85,Thanks for the ___.,advise|advice|advised,1,,,"You are thanking someone for the thing they gave, so use advice."
+87,4,select_blank,exercise,85,I ___ you to wait.,advice|advices|advise,2,,,"You are doing the recommending, so use advise."
+88,4,true_false,exercise,85,Advice is the thing you give someone.,,true,,,True. You give advice; you advise someone.
+89,4,multiple_choice,exercise,85,Which has the ice sound?,Advice|Advise|Advised,0,,,Advice rhymes with ice; advise rhymes with wise.
+90,4,true_false,preview,91,A principle is a rule you live by.,,true,,,True. Principal usually means main.
+91,4,multiple_choice,main,,Which means a rule or belief?,Principal|Principle|Principals,1,,,"A principle is a basic rule or belief. Principal means main, or the head of a school: a principal who has principles."
+92,4,select_blank,exercise,91,He is a man of ___.,principal|principals|principle,2,,,"You mean a person with strong beliefs, so use principle."
+93,4,select_blank,exercise,91,The ___ announced a snow day.,principal|principle|principles,0,,,The head of a school is the principal.
+94,4,true_false,exercise,91,Principal can mean main.,,true,,,True. The principal reason means the main reason.
+95,4,multiple_choice,exercise,91,Which means main?,Principle|Principal|Principe,1,,,Principal means main or leading; principle means a rule.
+96,4,true_false,preview,97,A compliment is a kind remark.,,true,,,True. Complement means to go well with.
+97,4,multiple_choice,main,,Which is a kind remark?,Complement|Complaint|Compliment,2,,,"A compliment is a kind remark. To complement means to complete or go well with, like wine that complements a meal."
+98,4,select_blank,exercise,97,She gave me a nice ___.,compliment|complement|complaint,0,,,A kind remark is a compliment.
+99,4,select_blank,exercise,97,Blue shoes ___ that dress.,compliment|complement|complain,1,,,"They go well with it, so use complement."
+100,4,true_false,exercise,97,Complement means to go well with.,,true,,,True. Think complete: a complement completes something.
+101,4,multiple_choice,exercise,97,Which means a kind remark?,Complement|Comment|Compliment,2,,,Compliment (with an i) is the I like you word.
+102,4,true_false,preview,103,Some sound-alike pairs differ by only one letter.,,true,,,"True. Affect and effect, or lose and loose, are examples."
+103,4,multiple_choice,main,,Which means a result?,Effect|Affect|Defect,0,,,Effect usually means a result; affect means to influence.
+104,4,select_blank,exercise,103,Stress can ___ your sleep.,effect|affect|afflict,1,,,"Stress influences sleep, so use affect."
+105,4,select_blank,exercise,103,Don't ___ the ticket.,loose|loss|lose,2,,,You do not want to misplace it.
+106,4,select_blank,exercise,103,Thank you for the ___.,advice|advise|advance,0,,,You are thanking someone for the recommendation itself.
+107,4,match_pairs,exercise,103,Match each word to its meaning.,Principal↔Main|Compliment↔Kind remark|Loose↔Not tight|Except↔Other than,,,,Each word in a sound-alike pair has its own meaning.
+108,4,select_blank,exercise,103,Everyone ___ Dan came.,accept|except|expect,1,,,Everyone other than Dan came.
+109,4,true_false,exercise,103,Principle means the head of a school.,,false,,,False. That is principal. A principle is a rule or belief.
+110,4,multiple_choice,exercise,103,Which is a homophone of two?,Toe|Tau|Too,2,,,"Too sounds exactly like two but is spelled differently, so it is a homophone."
+111,4,true_false,exercise,103,Their and there are homophones.,,true,,,True. They sound alike but have different spellings and meanings.
+112,5,true_false,preview,113,Regardless is standard; irregardless is not.,,true,,,True. Dictionaries label irregardless nonstandard.
+113,5,multiple_choice,main,,Which word is standard English?,Regardless|Irregardless|Irregardful,0,,,"Irregardless is nonstandard. Use regardless, which means without paying attention to something."
+114,5,select_blank,exercise,113,"___ of the cost, we'll go.",Irregardless|Regardless|Disregard,1,,,Use the standard word regardless.
+115,5,true_false,exercise,113,Irregardless is standard English.,,false,,,False. Irregardless is nonstandard; write regardless.
+116,5,multiple_choice,exercise,113,Which should you write?,Irregardless|Regardlessly|Regardless,2,,,Regardless is the standard form.
+117,5,true_false,exercise,113,Regardless means no matter what.,,true,,,True. It means without regard for the circumstances.
+118,5,true_false,preview,119,Could have is correct; could of is not.,,true,,,True. The mistake comes from how could've sounds.
+119,5,multiple_choice,main,,Which is correct?,could have|could of|could off,0,,,"Could've sounds like could of, but of is wrong. Write could have (also would have, should have)."
+120,5,select_blank,exercise,119,I should ___ called.,of|have|off,1,,,Should have is the correct form.
+121,5,true_false,exercise,119,'Would of' is correct.,,false,,,"False. Write would have, or the contraction would've."
+122,5,multiple_choice,exercise,119,What does could've stand for?,Could of|Could be|Could have,2,,,"The 've is short for have, never of."
+123,5,true_false,exercise,119,Should have is correct.,,true,,,True. Should have and should've are both fine.
+124,5,true_false,preview,125,A double negative uses two negatives in one statement.,,true,,,True. Standard English avoids it.
+125,5,multiple_choice,main,,Why is 'don't want nothing' wrong?,Two negatives|Wrong tense|Missing comma,0,,,"A double negative uses two negative words together, like don't and nothing. In standard English, say don't want anything."
+126,5,select_blank,exercise,125,I don't have ___ time.,no|any|none,1,,,"Don't already makes it negative, so use any."
+127,5,true_false,exercise,125,'I didn't see nobody' has a double negative.,,true,,,True. Didn't and nobody are both negative; write I didn't see anybody.
+128,5,true_false,exercise,125,'I have no time' has a double negative.,,false,,,"False. It has only one negative word, so it is fine."
+129,6,true_false,preview,130,An idiom's meaning isn't clear from its words alone.,,true,,,True. That is why idioms must be learned as fixed phrases.
+130,6,multiple_choice,main,,What is an idiom?,Spelling rule|Long word|Fixed saying,2,,,"An idiom is a saying whose meaning isn't clear from its words alone, like break the ice. Changing a word breaks it."
+131,6,true_false,exercise,130,Piece of cake is an idiom for something easy.,,true,,,True. It has nothing to do with cake.
+132,6,true_false,exercise,130,Changing a word in an idiom keeps its meaning.,,false,,,False. Idioms are fixed; changing a word usually breaks the meaning.
+133,6,multiple_choice,exercise,130,What does the idiom piece of cake mean?,Very easy|Dessert|Birthday,0,,,"As an idiom, piece of cake means something very easy."
+134,6,true_false,preview,135,Standard idioms keep their exact words.,,true,,,True. Mis-heard versions like for all intensive purposes are errors.
+135,6,multiple_choice,main,,Which completes: nip it in the ___?,bug|bud|bun,1,,,"Standard idioms keep their exact words: couldn't care less, for all intents and purposes, and nip it in the bud (stop a problem early)."
+136,6,select_blank,exercise,135,"For all ___ and purposes, it's done.",intensive|intense|intents,2,,,The idiom is for all intents and purposes.
+137,6,select_blank,exercise,135,I couldn't ___ less.,care|caring|cared,0,,,The idiom is couldn't care less.
+138,6,true_false,exercise,135,'For all intensive purposes' is the standard idiom.,,false,,,False. The idiom is for all intents and purposes.
+139,6,multiple_choice,exercise,135,What does nip it in the bud mean?,Plant seeds|Stop early|Wait calmly,1,,,"It means stop a problem early, before it grows, like pinching off a bud."
+140,6,true_false,exercise,135,Couldn't care less means you care a lot.,,false,,,False. It means you care not at all. Couldn't care less is the logical standard form.
+141,6,multiple_choice,exercise,135,What does for all intents and purposes mean?,Intentionally|Eventually|Practically,2,,,"It means in effect, or practically speaking."
+142,6,true_false,preview,143,"A gift is already free, so free gift repeats itself.",,true,,,True. This kind of repetition is called redundancy.
+143,6,multiple_choice,main,,What is redundancy?,Repeating meaning|Missing words|Wrong spelling,0,,,"Redundancy is saying the same thing twice in one phrase, like free gift or past history. One word is enough."
+144,6,true_false,exercise,143,Past history is redundant.,,true,,,True. History already means the past.
+145,6,true_false,exercise,143,Free gift repeats the idea of free.,,true,,,True. A gift is already given without payment.
+146,6,select_blank,exercise,143,Redundancy: 'end result' repeats itself; write ___.,end|result|finish,1,,,A result is already the end of a process.
+147,6,true_false,preview,148,Standard English avoids irregardless and could of.,,true,,,True. Use regardless and could have.
+148,6,multiple_choice,main,,Which is standard English?,Irregardless|Could of|Regardless,2,,,Regardless and could have are standard; irregardless and could of are not.
+149,6,select_blank,exercise,148,I would ___ gone.,have|of|off,0,,,Would have is the correct form.
+150,6,select_blank,exercise,148,"___ of the weather, we'll go.",Irregardless|Regardless|Disregard,1,,,Use the standard word regardless.
+151,6,true_false,exercise,148,'I don't need nothing' is standard English.,,false,,,False. It is a double negative; write I don't need anything.
+152,6,match_pairs,exercise,148,Match each idiom to its meaning.,Break the ice↔Start a chat|Piece of cake↔Very easy|Nip it in the bud↔Stop early|Couldn't care less↔Don't care,,,,Each idiom has a fixed meaning that its words alone don't show.
+153,6,true_false,exercise,148,Added bonus is redundant.,,true,,,True. A bonus is already something added.
+154,6,select_blank,exercise,148,Two negatives in one statement make a ___ negative.,triple|single|double,2,,,Two negatives together are called a double negative.
+155,6,order,exercise,148,"Order words into a sentence, first to last.",I|should|have|gone,,,,I should have gone. Never should of.
+156,7,true_false,preview,157,"A noun names a person, place, thing or idea.",,true,,,"True. Teacher, kitchen and happiness are all nouns."
+157,7,multiple_choice,main,,Which word is a noun?,Kitchen|Quickly|Run,0,,,"A noun names a person, place, thing or idea: teacher, kitchen, happiness."
+158,7,select_blank,exercise,157,"A ___ names a person, place or thing.",tense|noun|comma,1,,,That is the job of a noun.
+159,7,true_false,exercise,157,Happiness is a noun.,,true,,,True. It names an idea.
+160,7,multiple_choice,exercise,157,Which is a noun?,Slowly|Beautiful|Doctor,2,,,"Doctor names a person, so it is a noun."
+161,7,true_false,preview,162,"The words a, an and the are articles.",,true,,,True. They come before a noun.
+162,7,multiple_choice,main,,Which is an article?,The|Run|Big,0,,,"An article is one of the small words a, an or the that comes before a noun."
+163,7,true_false,exercise,162,A is an article.,,true,,,"True. A, an and the are the three articles."
+164,7,select_blank,exercise,162,I saw ___ dog in the park.,run|a|big,1,,,An article like a comes before the noun dog.
+165,7,multiple_choice,exercise,162,Which word is not an article?,An|The|Dog,2,,,Dog is a noun. An and the are articles.
+166,7,true_false,preview,167,Use an before a vowel sound.,,true,,,True. Use a before a consonant sound.
+167,7,multiple_choice,main,,Which phrase is correct?,An hour|A hour|An house,0,,,"Use an before a vowel sound and a before a consonant sound. Hour starts with a vowel sound, so an hour."
+168,7,select_blank,exercise,167,She ate ___ apple.,a|an|and,1,,,Apple starts with a vowel sound.
+169,7,select_blank,exercise,167,He is ___ honest man.,a|and|an,2,,,Honest starts with a vowel sound because the h is silent.
+170,7,select_blank,exercise,167,I saw ___ unicorn.,a|an|and,0,,,"Unicorn starts with a 'you' sound, a consonant sound, so use a."
+171,7,true_false,exercise,167,A is used before consonant sounds.,,true,,,"True. A dog, a house, a unicorn."
+172,8,true_false,preview,173,You can count apples but not water.,,true,,,True. That is the difference between countable and uncountable.
+173,8,multiple_choice,main,,Which is uncountable?,Apple|Water|Car,1,,,"A countable noun can be counted one by one (two apples). An uncountable noun is measured, like water or advice, not counted."
+174,8,select_blank,exercise,173,Advice is an ___ noun.,countable|unknown|uncountable,2,,,"You can't count advice as one advice, two advices."
+175,8,multiple_choice,exercise,173,Which is countable?,Chair|Rice|Traffic,0,,,"You can count chairs: one chair, two chairs."
+176,8,true_false,exercise,173,Information is uncountable.,,true,,,"True. You say some information, not two informations."
+177,8,true_false,exercise,173,Advice is a countable noun.,,false,,,False. Advice is uncountable; say two pieces of advice.
+178,8,true_false,preview,179,Use fewer for things you can count.,,true,,,True. Use less for amounts you measure.
+179,8,multiple_choice,main,,Which phrase is correct?,Less cars|Fewer cars|Lesser cars,1,,,Use fewer with things you can count (fewer cars) and less with amounts you measure (less traffic).
+180,8,select_blank,exercise,179,I have ___ time today.,fewer|few|less,2,,,"Time is measured, not counted, so use less."
+181,8,select_blank,exercise,179,There are ___ chairs here.,fewer|less|lesser,0,,,"Chairs are countable, so use fewer."
+182,8,true_false,exercise,179,Less water is correct.,,true,,,"True. Water is measured, not counted."
+183,8,multiple_choice,exercise,179,Pick the correct phrase.,Fewer sugar|Less sugar|Few sugar,1,,,"Sugar is measured, so it takes less."
+184,8,true_false,preview,185,Use many with things you can count.,,true,,,True. Use much with things you can't count.
+185,8,multiple_choice,main,,Which phrase is correct?,Much friends|Lots friends|Many friends,2,,,Use many with countable things (many friends) and much with uncountable ones (much time).
+186,8,select_blank,exercise,185,How ___ water do you drink?,much|many|few,0,,,"Water is uncountable, so use much."
+187,8,select_blank,exercise,185,How ___ cars do you own?,much|many|less,1,,,"Cars are countable, so use many."
+188,8,true_false,exercise,185,Much traffic is correct.,,true,,,True. Traffic is uncountable.
+189,8,true_false,exercise,185,'Many advice' is correct.,,false,,,False. Advice is uncountable; write much advice.
+190,8,true_false,preview,191,Use number for things you can count.,,true,,,True. Use amount for things you measure.
+191,8,select_blank,main,,A ___ of cars passed by.,amount|many|number,2,,,Use number for countable things (a number of cars) and amount for uncountable things (an amount of money).
+192,8,select_blank,exercise,191,A large ___ of people came.,number|amount|less,0,,,"People are countable, so use number."
+193,8,select_blank,exercise,191,A small ___ of sugar helps.,number|amount|fewer,1,,,"Sugar is measured, so use amount."
+194,8,true_false,exercise,191,'Amount of cars' is correct.,,false,,,False. Cars are countable; write number of cars.
+195,8,multiple_choice,exercise,191,Which one counts people?,Amount|Much|Number,2,,,A number of people uses the countable word.
+196,8,true_false,preview,197,"Countable things take fewer, many and number.",,true,,,"True. Uncountable things take less, much and amount."
+197,8,multiple_choice,main,,Which phrase is correct?,Fewer apples|Less apples|Much apples,0,,,"Apples are countable, so use fewer."
+198,8,select_blank,exercise,197,He ate ___ orange.,a|an|and,1,,,Orange starts with a vowel sound.
+199,8,select_blank,exercise,197,We have ___ homework today.,fewer|many|less,2,,,"Homework is uncountable, so use less."
+200,8,match_pairs,exercise,197,Match each term to its meaning.,"Noun↔Names a thing|Article↔A, an or the|Uncountable noun↔Water|Countable noun↔Chair",,,,Each term helps you choose between words like less and fewer.
+201,8,true_false,exercise,197,Information is a countable noun.,,false,,,False. Information is uncountable.
+202,8,select_blank,exercise,197,There were too ___ people.,many|much|less,0,,,"People are countable, so use many."
+203,8,true_false,exercise,197,The word the is an article.,,true,,,"True. A, an and the are articles."
+204,9,true_false,preview,205,Plural means more than one.,,true,,,True. Singular means just one.
+205,9,multiple_choice,main,,Which word is plural?,Dog|Dogs|Dog's,1,,,"Singular means one (dog); plural means more than one (dogs). Most plurals just add s, with no apostrophe."
+206,9,select_blank,exercise,205,One book is singular; two books are ___.,singular|possessive|plural,2,,,More than one is plural: books.
+207,9,true_false,exercise,205,Cats is singular.,,false,,,"False. Cats means more than one, so it is plural."
+208,9,multiple_choice,exercise,205,Which word is singular?,Child|Children|Kids,0,,,"Child means just one, so it is singular."
+209,9,true_false,exercise,205,Most plurals add s.,,true,,,"True. Dog becomes dogs, car becomes cars."
+210,9,true_false,preview,211,Add 's to show one owner.,,true,,,True. The dog's toy belongs to one dog.
+211,9,multiple_choice,main,,Which shows one owner?,dogs'|dog's|dogs,1,,,A singular possessive adds 's to show one owner: the dog's toy belongs to one dog.
+212,9,select_blank,exercise,211,One owner: that is my ___ car.,sisters'|sisters|sister's,2,,,"One sister owns the car, so add 's."
+213,9,true_false,exercise,211,The boy's ball shows one owner.,,true,,,True. Boy's with 's shows one owner.
+214,9,true_false,exercise,211,The teacher's desk shows two owners.,,false,,,False. Teacher's with 's shows one teacher.
+215,9,true_false,preview,216,Add only an apostrophe after a plural ending in s.,,true,,,True. The dogs' toys belong to several dogs.
+216,9,multiple_choice,main,,Which shows many owners?,dogs'|dog's|dogs,0,,,"Add only an apostrophe after a plural ending in s: a plural possessive, as in the dogs' toys (several dogs)."
+217,9,select_blank,exercise,216,Many owners: those are the ___ lockers.,student's|students'|students,1,,,"Many students own the lockers, so add only an apostrophe."
+218,9,true_false,exercise,216,The girls' room shows one owner.,,false,,,False. Girls' with the apostrophe after s means several girls.
+219,9,true_false,exercise,216,The boys' game belongs to several boys.,,true,,,True. Boys' shows many owners.
+220,9,true_false,preview,221,James's car and James' car are both acceptable.,,true,,,"True. Style guides differ, so pick one and stay consistent."
+221,9,multiple_choice,main,,Which is accepted for names ending in s?,Neither|Only one|Both,2,,,"For names ending in s, style guides differ: James's (Chicago style) and James' (newspaper style). Pick one and stay consistent."
+222,9,true_false,exercise,221,James's is an accepted way to show ownership.,,true,,,True. Many style guides prefer adding 's even after s.
+223,9,true_false,exercise,221,Jame's is correct for James.,,false,,,"False. The apostrophe goes after the whole name, not inside it."
+224,9,select_blank,exercise,221,For names ending in s: Chris___ book.,'s|s'|s,0,,,"Adding 's gives Chris's, which is accepted."
+225,10,true_false,preview,226,Plurals never take an apostrophe.,,true,,,True. A regular plural just adds s.
+226,10,multiple_choice,main,,Which is the correct plural?,Apple's|Apples|Apples',1,,,"Plurals never take an apostrophe: a regular plural just adds s (apples, not apple's). An apostrophe shows ownership or missing letters."
+227,10,select_blank,exercise,226,A plural just adds s: three ___.,pizza's|pizzas'|pizzas,2,,,"Three pizzas is a plain plural, with no apostrophe."
+228,10,true_false,exercise,226,'Two taco's' is correct.,,false,,,False. A plural never needs an apostrophe: two tacos.
+229,10,multiple_choice,exercise,226,Pick the correct sign.,Tomatoes|Tomatoe's|Tomato's,0,,,The plural of tomato is tomatoes.
+230,10,true_false,preview,231,Write 1990s with no apostrophe.,,true,,,True. Decades and short forms take a plain s.
+231,10,multiple_choice,main,,Which is correct?,1990's|1990s|1990s',1,,,"Write decades and acronyms (short forms like DVD) as plurals with no apostrophe: the 1990s, three DVDs."
+232,10,select_blank,exercise,231,I own six ___.,DVD's|Dvds|DVDs,2,,,A plural short form just adds a lowercase s.
+233,10,true_false,exercise,231,The 1980's is the correct way.,,false,,,False. Write the 1980s with no apostrophe.
+234,10,multiple_choice,exercise,231,A short form made from first letters?,Acronym|Contraction|Possessive,0,,,"An acronym is formed from the first letters, like DVD."
+235,10,true_false,exercise,231,NASA is an acronym.,,true,,,True. It is made from the first letters of the full name.
+236,11,true_false,preview,237,The Oxford comma goes before and in a list.,,true,,,True. It comes after the second-to-last item.
+237,11,multiple_choice,main,,Where does the Oxford comma go?,After and|Before and|Before list,1,,,"The Oxford comma is the comma before and or or in a list of three or more: red, white, and blue."
+238,11,true_false,exercise,237,"'Eggs, milk, and bread' uses an Oxford comma.",,true,,,True. There is a comma before and.
+239,11,true_false,exercise,237,Every style guide requires the Oxford comma.,,false,,,False. Some newspaper styles leave it out; just be consistent.
+240,11,true_false,exercise,237,"'Pasta, rice and beans' uses an Oxford comma.",,false,,,False. There is no comma before and.
+241,11,true_false,preview,242,Put a comma after an opening phrase.,,true,,,True. The comma separates it from the main point.
+242,11,multiple_choice,main,,Where does the comma go: After lunch we left?,"lunch we,|we left,|After lunch,",2,,,"An introductory phrase opens a sentence before the main point. Follow it with a comma: After lunch, we left."
+243,11,true_false,exercise,242,"'In the morning, I run' uses an introductory phrase correctly.",,true,,,True. A comma follows the introductory phrase.
+244,11,true_false,exercise,242,'Before dinner I called' needs a comma after dinner.,,true,,,True. Before dinner is an introductory phrase.
+245,11,multiple_choice,exercise,242,Which is an introductory phrase?,After work|I called|We left,0,,,After work opens the sentence before the main point.
+246,12,true_false,preview,247,"Words like and, but and so are conjunctions.",,true,,,True. They join words or whole sentences.
+247,12,multiple_choice,main,,Which is a conjunction?,Quickly|But|Table,1,,,"Words like and, but and so are conjunctions: they join words or sentences. Put a comma before it when it joins two full sentences."
+248,12,true_false,exercise,247,"'I tried, but I failed' uses the conjunction correctly.",,true,,,True. A comma comes before but when it joins two full sentences.
+249,12,select_blank,exercise,247,"I wanted pizza, ___ we had soup.",quickly|table|but,2,,,"But joins the two sentences, with a comma before it."
+250,12,true_false,exercise,247,'I tried but I failed' needs a comma before but.,,true,,,"True. Each side is a full sentence, so add a comma."
+251,12,true_false,preview,252,Commas surround extra information.,,true,,,True. Extra information can be removed without breaking the sentence.
+252,12,multiple_choice,main,,What do commas surround?,Extra information|Main points|Short words,0,,,"Use commas around extra information that could be removed: My sister, who lives in Ohio, called."
+253,12,true_false,exercise,252,"'My boss, Dana, left' uses commas correctly.",,true,,,"True. Dana is extra information, so commas surround it."
+254,12,true_false,exercise,252,Extra information needs no commas.,,false,,,False. Commas set off extra information at both ends.
+255,12,multiple_choice,exercise,252,What can be removed from the sentence?,Main idea|Extra information|Both,1,,,"Extra information is safe to remove, so commas mark it off."
+256,12,true_false,preview,257,"Plurals take no apostrophe, but owners do.",,true,,,True. Apples is a plural; the apple's skin shows ownership.
+257,12,multiple_choice,main,,Which shows a single owner?,Dogs|Dogs'|Dog's,2,,,"Dog's, with 's, shows one owner."
+258,12,select_blank,exercise,257,Those are my two ___.,sisters|sister's|sisters',0,,,Two sisters is a plain plural.
+259,12,select_blank,exercise,257,My ___ car is new.,moms|mom's|moms',1,,,"One mom owns the car, so add 's."
+260,12,true_false,exercise,257,"'We bought apples, pears, and plums' uses an Oxford comma.",,true,,,True. There is a comma before and.
+261,12,multiple_choice,exercise,257,Which word joins two sentences?,Dog's|Comma|But,2,,,But is a conjunction.
+262,12,true_false,exercise,257,An introductory phrase is followed by a comma.,,true,,,"True. After lunch, we left."
+263,12,true_false,exercise,257,Break the ice is an idiom.,,true,,,True. Its meaning (start a conversation) is not clear from its words.
+264,12,true_false,exercise,257,Idioms keep their fixed wording.,,true,,,True. Changing a word usually breaks the meaning.
+265,12,true_false,exercise,257,Three DVDs is written with no apostrophe.,,true,,,True. A plural short form just adds a plain s.
+266,12,true_false,exercise,257,NASA and DVD are acronyms.,,true,,,True. Each is formed from the first letters of a longer name.
+267,12,true_false,exercise,257,Free gift is an example of redundancy.,,true,,,"True. A gift is already free, so one word repeats the other."
+268,12,match_pairs,exercise,257,Match each term to its example.,Possessive↔Maria's car|Plural↔Three cars|Conjunction↔But|Acronym↔DVD,,,,Each term names a different use of letters and punctuation.
+269,12,order,exercise,257,"Order words into a sentence, first to last.",The|dogs'|toys|are|here,,,,The dogs' toys are here. The apostrophe after s shows many owners.
+270,13,true_false,preview,271,"He, she and they are pronouns.",,true,,,True. They stand in for names.
+271,13,multiple_choice,main,,What does a pronoun do?,Replaces nouns|Shows ownership|Joins sentences,0,,,"A pronoun stands in for a noun so you don't repeat it: Maria left, so she called."
+272,13,select_blank,exercise,271,Maria said ___ was tired.,table|she|happy,1,,,She stands in for Maria.
+273,13,true_false,exercise,271,They is a pronoun.,,true,,,True. They stands in for a group of people or things.
+274,13,multiple_choice,exercise,271,Which is a pronoun?,Run|Happy|Her,2,,,"Her stands in for a person, so it is a pronoun."
+275,13,true_false,preview,276,The subject does the action; the object receives it.,,true,,,"True. In Maria called Jake, Jake receives the call."
+276,13,multiple_choice,main,,"In 'Maria called Jake,' who is the object?",Jake|Maria|Called,0,,,"The subject does the action; the object receives it. In Maria called Jake, Maria is the subject and Jake the object."
+277,13,select_blank,exercise,276,"As the subject, ___ called me.",her|she|hers,1,,,"She does the calling, so use the subject form."
+278,13,multiple_choice,exercise,276,"In 'Jake sees Maria,' who is the subject?",Maria|Sees|Jake,2,,,"Jake does the seeing, so he is the subject."
+279,13,select_blank,exercise,276,Maria called ___.,him|he|his,0,,,"Him receives the call, so use the object form."
+280,13,true_false,exercise,276,"In 'She called him', him is the object.",,true,,,True. Him receives the action of calling.
+281,13,true_false,preview,282,Drop the other person to test I or me.,,true,,,True. Say each word alone to hear what fits.
+282,13,select_blank,main,,Jake and ___ left early.,me|I|my,1,,,"As a subject, use I: Jake and I left. As an object, use me: He called Jake and me. Drop the other person to test."
+283,13,select_blank,exercise,282,She called Jake and ___.,I|my|me,2,,,Drop Jake: she called me. So use me.
+284,13,true_false,exercise,282,'Me and Jake left' is correct.,,false,,,False. Drop Jake: me left is wrong. Write Jake and I left.
+285,13,select_blank,exercise,282,Drop Mom: send it to Mom and ___.,me|I|my,0,,,Drop Mom: send it to me. So use me.
+286,13,true_false,exercise,282,Dropping Jake from 'Jake and I left' leaves 'I left'.,,true,,,True. That test shows I is right as the subject.
+287,14,true_false,preview,288,Use whom when him would fit.,,true,,,"True. If he fits, use who."
+288,14,select_blank,main,,To ___ did you speak?,who|whom|whose,1,,,"Use who for the subject (who called?) and whom for the object (to whom?). Test: he = who, him = whom."
+289,14,select_blank,exercise,288,___ called you?,Whom|Whose|Who,2,,,"He called you, so use who."
+290,14,select_blank,exercise,288,With ___ did she go?,whom|who|whose,0,,,"She went with him, so use whom."
+291,14,true_false,exercise,288,"If him fits, use whom.",,true,,,"True. Replace the word with him; if it works, choose whom."
+292,14,true_false,exercise,288,'Whom is there?' is correct.,,false,,,"False. He is there, so write Who is there?"
+293,14,true_false,preview,294,Use which for extra information set off by commas.,,true,,,True. Use that for essential details.
+294,14,multiple_choice,main,,Which word goes with essential details?,Which|That|Whom,1,,,"Use that for essential details (The car that I bought) and which, with commas, for extra information (My car, which is old)."
+295,14,select_blank,exercise,294,The book ___ I read was good.,which|whom|that,2,,,"I read it is essential to identify the book, so use that."
+296,14,select_blank,exercise,294,"My book, ___ is old, fell.",which|that|whom,0,,,"Is old is extra information set off by commas, so use which."
+297,14,true_false,exercise,294,Which usually follows a comma when giving extra information.,,true,,,"True. My car, which is old, runs well."
+298,14,true_false,exercise,294,"'The car, that I own, is red' is correct.",,false,,,False. Extra information in commas takes which.
+299,15,true_false,preview,300,Myself is for when you do something to yourself.,,true,,,True. It is not a fancy replacement for me.
+300,15,select_blank,main,,I cut ___ while cooking.,me|myself|I,1,,,A reflexive pronoun like myself is for doing something to yourself: I cut myself. Don't use it to sound formal.
+301,15,true_false,exercise,300,'Send it to myself and Jake' is correct.,,false,,,False. Write Send it to Jake and me; myself is only for your own actions.
+302,15,select_blank,exercise,300,A reflexive pronoun fits: she taught ___ to swim.,her|she|herself,2,,,"She taught the same person she is, so use herself."
+303,15,true_false,exercise,300,Use myself when you do something to yourself.,,true,,,True. I hurt myself is correct.
+304,15,true_false,preview,305,Adjectives describe nouns; adverbs describe actions.,,true,,,True. A quick lunch uses an adjective; ran quickly uses an adverb.
+305,15,multiple_choice,main,,Which word is an adverb?,Quickly|Quick|Quicker,0,,,"Adjectives describe nouns and adverbs describe actions: a quick lunch (adjective), ran quickly (adverb)."
+306,15,select_blank,exercise,305,An adverb describes how: she sings ___.,beautiful|beautifully|beauty,1,,,"Beautifully describes how she sings, so it is an adverb."
+307,15,multiple_choice,exercise,305,Which is an adjective?,Happily|Quickly|Happy,2,,,"Happy describes a noun, so it is an adjective."
+308,15,true_false,exercise,305,Quickly is an adjective.,,false,,,"False. Quickly describes an action, so it is an adverb."
+309,15,true_false,exercise,305,A good idea uses an adjective.,,true,,,True. Good describes the noun idea.
+310,15,true_false,preview,311,Use well to describe how an action is done.,,true,,,True. Good describes a noun.
+311,15,select_blank,main,,She sings ___.,well|good|goodly,0,,,Good is an adjective that describes a noun (a good song); well is an adverb (sings well). Well can also mean healthy.
+312,15,select_blank,exercise,311,That is a ___ idea.,well|good|goodly,1,,,Good describes the noun idea.
+313,15,select_blank,exercise,311,He plays ___.,good|goodly|well,2,,,"Well describes how he plays, so it is an adverb."
+314,15,true_false,exercise,311,'He runs good' is correct.,,false,,,False. Describe the action with an adverb: He runs well.
+315,15,true_false,exercise,311,Well can mean healthy.,,true,,,True. I feel well means I am healthy.
+316,15,true_false,preview,317,Pronouns and describing words each have a job.,,true,,,True. Mixing them up causes common errors.
+317,15,multiple_choice,main,,Which receives the action?,Object|Subject|Adverb,0,,,The object receives the action; the subject does it.
+318,15,select_blank,exercise,317,Maria and ___ left.,me|I|myself,1,,,Drop Maria: I left. So use I.
+319,15,match_pairs,exercise,317,Match each term to its job.,Pronoun↔Replaces a noun|Adjective↔Describes a noun|Adverb↔Describes an action|Reflexive pronoun↔Myself,,,,Each term has a different job in a sentence.
+320,15,true_false,exercise,317,Whom is for the object.,,true,,,True. Use whom when him would fit.
+321,15,select_blank,exercise,317,She did it ___.,good|goodly|well,2,,,Well describes how she did it.
+322,15,select_blank,exercise,317,The cake ___ I baked is gone.,that|which|whom,0,,,"I baked is essential to identify the cake, so use that."
+323,15,true_false,exercise,317,Quick is an adverb.,,false,,,False. Quick is an adjective; quickly is the adverb.
+324,15,order,exercise,317,"Order words into a sentence, first to last.",Jake|and|I|left,,,,Jake and I left. Drop Jake: I left.
+325,16,true_false,preview,326,A verb shows an action or a state.,,true,,,"True. Run, write, is and seem are all verbs."
+326,16,multiple_choice,main,,Which word is a verb?,Red|Run|Chair,1,,,"A verb shows an action or a state: run, write, is, seem."
+327,16,select_blank,exercise,326,A ___ shows an action.,noun|article|verb,2,,,Verbs show actions and states.
+328,16,true_false,exercise,326,Seem is a verb.,,true,,,True. It shows a state.
+329,16,multiple_choice,exercise,326,Which word is also a verb?,Write|Table|Blue,0,,,"Write shows an action, so it is a verb."
+330,16,true_false,preview,331,A singular subject takes a singular verb.,,true,,,True. Many doers take a plural verb.
+331,16,multiple_choice,main,,Which pair matches?,She walk|She walks|They walks,1,,,Subject-verb agreement: a singular subject takes a singular verb (she walks); a plural subject takes a plural verb (they walk).
+332,16,select_blank,exercise,331,"With the subject dogs, use ___.",barks|barking|bark,2,,,"Dogs is plural, so use bark."
+333,16,select_blank,exercise,331,One subject: my brother ___ here.,lives|live|living,0,,,One brother takes the singular verb lives.
+334,16,true_false,exercise,331,'The keys is here' matches its subject.,,false,,,"False. Keys is plural, so write The keys are on the table."
+335,16,true_false,preview,336,Everyone takes a singular verb.,,true,,,True. So do nobody and someone.
+336,16,select_blank,main,,Everyone ___ invited.,are|is|were,1,,,An indefinite pronoun like everyone takes a singular verb. A collective noun like team is usually singular in American English: the team is ready.
+337,16,select_blank,exercise,336,The team ___ ready.,are|were|is,2,,,"In American English, a team acts as one unit, so use is."
+338,16,true_false,exercise,336,An indefinite pronoun: 'Everybody are here' is correct.,,false,,,False. Everybody takes a singular verb: Everybody is here.
+339,16,select_blank,exercise,336,A collective noun: the family ___ at home.,is|are|be,0,,,"A family acts as one unit, so use is."
+340,16,true_false,exercise,336,Team is a collective noun.,,true,,,True. It names a group as one unit.
+341,16,true_false,preview,342,"After there, the verb matches what follows.",,true,,,True. There is a cat; there are cats.
+342,16,select_blank,main,,There ___ three cats.,is|are|be,1,,,"After there, the verb matches what follows: there is a cat, there are three cats."
+343,16,select_blank,exercise,342,There ___ one problem.,are|be|is,2,,,"One problem is singular, so use is."
+344,16,select_blank,exercise,342,There ___ many options.,are|is|be,0,,,"Many options is plural, so use are."
+345,16,true_false,exercise,342,'There is two cats' is correct.,,false,,,"False. Two cats is plural, so write There are two cats."
+346,16,true_false,exercise,342,'There is a cat outside' is correct.,,true,,,"True. A cat is singular, so use is."
+347,17,true_false,preview,348,The past tense says something already happened.,,true,,,True. Most verbs add ed.
+348,17,multiple_choice,main,,Which is past tense?,Walk|Walked|Walking,1,,,The past tense is the verb form that says something already happened. Most verbs add ed: walk becomes walked.
+349,17,select_blank,exercise,348,Yesterday I ___ home.,walk|walking|walked,2,,,"Yesterday points to the past, so use walked."
+350,17,true_false,exercise,348,Walking is past tense.,,false,,,False. Walking is an -ing form; the past tense is walked.
+351,17,multiple_choice,exercise,348,Which verb shows it already happened?,Cooked|Cook|Cooking,0,,,Cooked is the past tense.
+352,17,true_false,preview,353,Some verbs change form instead of adding ed.,,true,,,True. They are called irregular verbs.
+353,17,multiple_choice,main,,What is the past tense of go?,Goed|Went|Gone,1,,,"Some verbs change form instead of adding ed: an irregular verb like go, went, gone. The past participle (gone) follows have or has."
+354,17,select_blank,exercise,353,Yesterday she ___ to Ohio.,goed|gone|went,2,,,The past tense of go is went.
+355,17,select_blank,exercise,353,The past tense of eat is ___.,ate|eated|eaten,0,,,Eat is irregular: ate is its past tense.
+356,17,true_false,exercise,353,Eaten is a past participle.,,true,,,True. It is the form used after have or has.
+357,17,true_false,exercise,353,'Goed' is correct.,,false,,,False. Go is irregular; the past tense is went.
+358,17,true_false,preview,359,Use did alone; use done after have.,,true,,,True. I did it; I have done it.
+359,17,select_blank,main,,I ___ my homework yesterday.,done|did|do,1,,,"Did stands alone: I did it. Done needs have, has or was: I have done it; it was done."
+360,17,select_blank,exercise,359,She has ___ the dishes.,did|do|done,2,,,Has needs the past participle done.
+361,17,true_false,exercise,359,'I done it' is correct.,,false,,,"False. Done needs have or has: I did it, or I have done it."
+362,17,true_false,exercise,359,'I have done it' is correct.,,true,,,True. Done follows have.
+363,17,multiple_choice,exercise,359,Which can stand alone?,Did|Done|Doing,0,,,Did works without a helper: I did it.
+364,17,true_false,preview,365,Use saw alone; use seen after have.,,true,,,True. I saw it; I have seen it.
+365,17,select_blank,main,,I ___ him yesterday.,seen|saw|see,1,,,"Saw stands alone: I saw it. Seen needs have, has or been: I have seen it."
+366,17,select_blank,exercise,365,I have ___ that movie.,saw|see|seen,2,,,Have needs the past participle seen.
+367,17,true_false,exercise,365,'I seen it' is correct.,,false,,,"False. Seen needs have: I have seen it, or I saw it."
+368,17,true_false,exercise,365,'We saw the show' is correct.,,true,,,True. Saw stands alone.
+369,17,multiple_choice,exercise,365,Which needs have or has?,Seen|Saw|Saws,0,,,"Seen is a past participle, so it follows have or has."
+370,17,true_false,preview,371,Verbs must match their subjects and use proper past forms.,,true,,,True. Both are common error spots.
+371,17,multiple_choice,main,,Which verb matches the team?,Are|Is|Be,1,,,"In American English, team takes a singular verb: the team is."
+372,17,select_blank,exercise,371,She ___ to the store.,walk|walking|walks,2,,,One person takes walks.
+373,17,select_blank,exercise,371,We ___ the game last night.,saw|seen|see,0,,,Last night needs the past tense saw.
+374,17,true_false,exercise,371,'She done it' is correct.,,false,,,"False. Write she did it, or she has done it."
+375,17,match_pairs,exercise,371,Match each verb to its past tense.,Go↔Went|Eat↔Ate|See↔Saw|Do↔Did,,,,These irregular verbs change form in the past tense.
+376,17,true_false,exercise,371,Walked is an irregular verb.,,false,,,"False. It follows the add-ed rule, so it is regular."
+377,17,true_false,exercise,371,Subject-verb agreement matches a verb to its subject.,,true,,,True. One doer takes a singular verb; many take a plural verb.
+378,17,true_false,exercise,371,An indefinite pronoun like nobody takes a singular verb.,,true,,,"True. Nobody is, never nobody are."
+379,17,true_false,exercise,371,Indefinite pronouns like everyone are singular.,,true,,,True. Everyone is here.
+380,17,true_false,exercise,371,A collective noun like team acts as one unit.,,true,,,"True. In American English, the team is ready."
+381,17,select_blank,exercise,371,Everyone ___ here.,are|is|were,1,,,"Everyone is singular, so use is."
+382,18,true_false,preview,383,The present perfect uses have plus a past participle.,,true,,,True. It links a past event to now.
+383,18,multiple_choice,main,,Which is the present perfect?,Finished|Will finish|Have finished,2,,,The present perfect is have or has plus a past participle: I have finished. It links a past event to now.
+384,18,select_blank,exercise,383,She has ___ her lunch.,eaten|ate|eat,0,,,Has needs the past participle eaten.
+385,18,true_false,exercise,383,'They have visited Paris' is present perfect.,,true,,,True. It uses have plus the past participle visited.
+386,18,true_false,exercise,383,'I finished' is present perfect.,,false,,,"False. It has no have or has, so it is simple past."
+387,18,true_false,preview,388,Use gone after have or has.,,true,,,True. Went stands alone.
+388,18,select_blank,main,,She has ___ home.,went|gone|go,1,,,"Went stands alone: she went home. Gone needs have, has or is: she has gone home."
+389,18,select_blank,exercise,388,They ___ to Rome last year.,gone|go|went,2,,,Last year needs the past tense went.
+390,18,true_false,exercise,388,'I have went' is correct.,,false,,,False. Have needs the past participle gone: I have gone.
+391,18,true_false,exercise,388,Gone follows have or has.,,true,,,True. She has gone; they have gone.
+392,18,select_blank,exercise,388,The cookies are all ___.,gone|went|go,0,,,Are can be followed by gone.
+393,19,true_false,preview,394,Lay needs an object; lie does not.,,true,,,"True. You lay a book down, but you lie down."
+394,19,multiple_choice,main,,Which needs an object?,Lie|Lay|Lying,1,,,"Lay needs an object: lay the book down. Lie does not: lie down. Past tenses: laid for lay, lay for lie."
+395,19,select_blank,exercise,394,Please ___ the book here.,lie|laid|lay,2,,,"The book is the object, so use lay."
+396,19,select_blank,exercise,394,I need to ___ down.,lie|lay|laid,0,,,"Nothing is being placed, so use lie."
+397,19,select_blank,exercise,394,Yesterday she ___ the keys down.,lay|laid|lied,1,,,"The keys are the object, so use laid."
+398,19,true_false,exercise,394,Lie takes an object.,,false,,,False. Lay takes an object; lie does not.
+399,19,true_false,preview,400,Bring means toward you; take means away.,,true,,,True. Think of where the speaker is.
+400,19,multiple_choice,main,,Which means toward the speaker?,Take|Taken|Bring,2,,,Bring moves something toward the speaker or place you're talking about; take moves it away. Take your umbrella when you leave.
+401,19,select_blank,exercise,400,Please ___ that to the office.,take|bring|brings,0,,,"You are sending it away from here, so use take."
+402,19,select_blank,exercise,400,Can you ___ me a glass?,take|bring|brought,1,,,You want it brought toward you.
+403,19,true_false,exercise,400,Take means toward the speaker.,,false,,,False. Bring means toward the speaker; take means away.
+404,19,true_false,exercise,400,'Bring it here' is correct.,,true,,,True. Here is toward the speaker.
+405,19,true_false,preview,406,Borrow means to receive; lend means to give.,,true,,,True. Both are temporary.
+406,19,multiple_choice,main,,Which means to give temporarily?,Borrow|Keep|Lend,2,,,Lend means to give something temporarily; borrow means to receive it temporarily. You lend a pen; I borrow it.
+407,19,select_blank,exercise,406,Can I ___ your pen?,borrow|lend|lent,0,,,"You are asking to receive it, so use borrow."
+408,19,select_blank,exercise,406,Please ___ me five dollars.,borrow|lend|borrowed,1,,,"You are asking them to give it, so use lend."
+409,19,true_false,exercise,406,Lend means to receive something.,,false,,,False. Lend means to give; borrow means to receive.
+410,19,true_false,exercise,406,You borrow from a friend.,,true,,,True. You receive something from them temporarily.
+411,19,true_false,preview,412,Many verbs change form after have.,,true,,,True. That form is the past participle.
+412,19,multiple_choice,main,,Which verb form follows have?,Pronoun|Article|Past participle,2,,,"Have and has are followed by a past participle: have seen, has gone."
+413,19,select_blank,exercise,412,She has ___ the movie.,seen|saw|see,0,,,Has needs the past participle seen.
+414,19,match_pairs,exercise,412,Match each verb to its meaning.,Lend↔Give temporarily|Borrow↔Receive temporarily|Bring↔Move toward|Take↔Move away,,,,Each verb has a direction or role.
+415,19,select_blank,exercise,412,Please ___ the keys on the table.,lie|lay|laid,1,,,"The keys are the object, so use lay."
+416,19,true_false,exercise,412,'Everyone is here' is correct.,,true,,,True. Everyone is singular.
+417,19,true_false,exercise,412,'She has gone home' is correct.,,true,,,True. Gone follows has.
+418,19,true_false,exercise,412,Went is the past tense of an irregular verb.,,true,,,True. Go becomes went instead of adding ed.
+419,19,true_false,exercise,412,Irregular verbs break the add-ed rule.,,true,,,"True. Eat, ate and eaten are examples."
+420,19,true_false,exercise,412,'I have eaten' is in the present perfect.,,true,,,True. It uses have plus the past participle eaten.
+421,19,select_blank,exercise,412,The dogs ___ happy.,is|be|are,2,,,"Dogs is plural, so use are."
+422,19,order,exercise,412,"Order words into a sentence, first to last.",She|has|seen|it,,,,She has seen it. Has needs the past participle seen.
+423,20,true_false,preview,424,A run-on sentence jams two sentences together.,,true,,,True. It lacks proper punctuation between them.
+424,20,multiple_choice,main,,What is a run-on sentence?,Joined sentences|Short sentence|Long word,0,,,A run-on sentence jams two full sentences together without proper punctuation: I was tired I went to bed.
+425,20,true_false,exercise,424,'I called he answered' is a run-on.,,true,,,True. Two full sentences are jammed together.
+426,20,true_false,exercise,424,A run-on sentence is always long.,,false,,,False. A run-on can be short; what matters is the missing punctuation.
+427,20,multiple_choice,exercise,424,How can you fix a run-on?,Add letter|Add period|Delete it,1,,,Splitting it with a period (or adding a joining word) fixes it.
+428,20,true_false,preview,429,A comma alone cannot join two sentences.,,true,,,True. That mistake is a comma splice.
+429,20,multiple_choice,main,,What is a comma splice?,Missing comma|Extra period|Comma-only join,2,,,"A comma splice joins two full sentences with only a comma: I was tired, I went to bed. Use a period or add and."
+430,20,true_false,exercise,429,"'It rained, we stayed in' is a comma splice.",,true,,,True. Two full sentences are joined by only a comma.
+431,20,true_false,exercise,429,A comma plus and fixes a comma splice.,,true,,,"True. It rained, and we stayed in is correct."
+432,20,select_blank,exercise,429,A comma ___ joins sentences with only a comma.,splice|tense|pronoun,0,,,That mistake is called a comma splice.
+433,20,true_false,preview,434,A sentence fragment is missing a main part.,,true,,,True. It is usually missing a subject or a verb.
+434,20,multiple_choice,main,,Which is a fragment?,He ran|Running home|I left,1,,,"A sentence fragment is a piece of a sentence punctuated like a whole one, usually missing a subject or verb: Running home."
+435,20,true_false,exercise,434,'Running home.' is a complete sentence.,,false,,,"False. It has no subject, so it is a fragment."
+436,20,true_false,exercise,434,'She left.' is a complete sentence.,,true,,,True. It has a subject and a verb.
+437,20,multiple_choice,exercise,434,Which is complete?,Left early|Running fast|I left,2,,,I left has a subject and a verb.
+438,20,true_false,preview,439,Put modifiers next to the word they describe.,,true,,,True. Otherwise the meaning can change.
+439,20,multiple_choice,main,,What is a misplaced modifier?,Too distant|Missing comma|Extra word,0,,,Put a modifier next to the word it describes. A misplaced modifier is too far from it: He served cake to guests on paper plates.
+440,20,true_false,exercise,439,Only is a modifier.,,true,,,True. Only adds detail about another word.
+441,20,true_false,exercise,439,Misplaced modifiers can change a sentence's meaning.,,true,,,True. The detail attaches to the wrong word.
+442,20,multiple_choice,exercise,439,What does a modifier do?,Joins words|Adds detail|Names things,1,,,A modifier adds detail about another word or phrase.
+443,20,select_blank,exercise,439,Place a ___ next to the word it describes.,comma|verb|modifier,2,,,A modifier belongs right next to what it describes.
+444,20,true_false,preview,445,List items should share the same form.,,true,,,True. That is called parallel structure.
+445,20,multiple_choice,main,,Which pair is parallel?,"Eat, sleep|Eat, sleeping|Ate, sleep",0,,,"List items should share the same form: parallel structure uses one pattern, like eat and sleep or eating and sleeping."
+446,20,true_false,exercise,445,"'Swimming, biking and run' is parallel.",,false,,,False. Run does not match swimming and biking; write running.
+447,20,true_false,exercise,445,"'Swimming, biking and running' is parallel.",,true,,,True. Every item ends in -ing.
+448,20,select_blank,exercise,445,Parallel structure: I like hiking and ___.,swim|swimming|swam,1,,,"Hiking ends in -ing, so match it with swimming."
+449,20,true_false,preview,450,Fixing run-ons and fragments makes writing clearer.,,true,,,"True. Complete, well-joined sentences are easier to read."
+450,20,multiple_choice,main,,Which joins sentences with only a comma?,Fragment|Modifier|Comma splice,2,,,That mistake is called a comma splice.
+451,20,true_false,exercise,450,'Running late.' is a complete sentence.,,false,,,"False. It has no subject, so it is a fragment."
+452,20,match_pairs,exercise,450,Match each term to its meaning.,Run-on sentence↔Two sentences jammed|Comma splice↔Comma-only join|Sentence fragment↔Missing part|Parallel structure↔Same pattern,,,,Each term names a different way a sentence can go wrong or work well.
+453,20,select_blank,exercise,450,She likes reading and ___.,writing|write|wrote,0,,,"Reading ends in -ing, so match it with writing."
+454,20,true_false,exercise,450,"'It rained, we left' is a comma splice.",,true,,,True. Two full sentences are joined by only a comma.
+455,20,true_false,exercise,450,A modifier should sit near what it describes.,,true,,,True. Distance can change the meaning.
+456,20,true_false,exercise,450,A misplaced modifier sits far from its target.,,true,,,True. That distance can change the meaning.
+457,20,true_false,exercise,450,Misplaced modifiers confuse readers.,,true,,,True. The detail attaches to the wrong word.
+458,20,true_false,exercise,450,Modifiers add detail to other words.,,true,,,True. Each one describes another word or phrase.
+459,20,true_false,exercise,450,A conjunction like but joins two sentences.,,true,,,True. Put a comma before it when each side is a full sentence.
+460,20,true_false,exercise,450,"Conjunctions like and, but and so join sentences.",,true,,,"True. They link words, phrases or whole sentences."
+461,20,true_false,exercise,450,Use a comma after an introductory phrase.,,true,,,"True. After lunch, we left."
+462,20,true_false,exercise,450,Myself is a reflexive pronoun.,,true,,,True. It is for actions you do to yourself.
+463,20,true_false,exercise,450,Quick is an adjective and quickly is an adverb.,,true,,,True. Quick describes a noun; quickly describes an action.
+464,20,multiple_choice,exercise,450,Which is complete?,Left early|He left|Running fast,1,,,He left has a subject and a verb.
+465,20,order,exercise,450,"Order words into a sentence, first to last.",She|likes|reading|and|writing,,,,She likes reading and writing. Both items share the same form.
