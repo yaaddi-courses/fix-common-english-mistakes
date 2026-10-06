@@ -464,3 +464,68 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 463,20,true_false,exercise,450,Quick is an adjective and quickly is an adverb.,,true,,,True. Quick describes a noun; quickly describes an action.
 464,20,multiple_choice,exercise,450,Which is complete?,Left early|He left|Running fast,1,,,He left has a subject and a verb.
 465,20,order,exercise,450,"Order words into a sentence, first to last.",She|likes|reading|and|writing,,,,She likes reading and writing. Both items share the same form.
+466,1,multiple_choice,exam,,They left ___ keys at home.,their|there|they're,0,,,Their shows ownership.
+467,1,multiple_choice,exam,,Put the book over ___.,they're|there|their,1,,,There points to a place.
+468,1,multiple_choice,exam,,___ late again today.,Their|There|They're,2,,,They're means they are.
+469,1,true_false,exam,,An apostrophe in they're shows missing letters.,,true,,,The contraction joins they and are.
+470,2,multiple_choice,exam,,___ phone is ringing.,Yore|Your|You're,1,,,"Your, with no apostrophe, shows ownership."
+471,2,multiple_choice,exam,,___ a great idea.,Your|Youre|You're,2,,,You're means you are.
+472,2,multiple_choice,exam,,The dog wagged ___ tail.,its|it's|its',0,,,"Its, with no apostrophe, shows ownership."
+473,2,multiple_choice,exam,,___ raining outside.,Is|It's|Its,1,,,It's means it is or it has.
+474,2,multiple_choice,exam,,___ coat is on the chair?,Who's|Whos|Whose,2,,,Whose asks about ownership.
+475,3,multiple_choice,exam,,I want to go ___.,too|to|two,0,,,Too means also.
+476,3,multiple_choice,exam,,She is taller ___ me.,thin|than|then,1,,,Than compares two things.
+477,3,multiple_choice,exam,,"First eat, ___ rest.",than|thin|then,2,,,Then is about order or time.
+478,3,true_false,exam,,Two is a number.,,true,,,Too means also and to points toward something.
+479,4,multiple_choice,exam,,Rain can ___ traffic.,infect|affect|effect,1,,,Affect means to influence.
+480,4,multiple_choice,exam,,One ___ is delays.,affect|defect|effect,2,,,Effect means a result.
+481,4,multiple_choice,exam,,I ___ your gift.,accept|except|expect,0,,,Accept means to receive.
+482,4,multiple_choice,exam,,My jacket is too ___.,loss|loose|lose,1,,,Loose means not tight.
+483,16,multiple_choice,exam,,I ___ you to rest.,advice|advices|advise,2,,,Advise is the verb.
+484,4,multiple_choice,exam,,The school ___ called.,principal|principle|principel,0,,,Principal can mean the head of a school.
+485,4,multiple_choice,exam,,She paid me a ___.,complaint|compliment|complement,1,,,A compliment is a kind remark.
+486,5,multiple_choice,exam,,Which word is standard English?,Irregardless|Irregardles|Regardless,2,,,Irregardless is nonstandard.
+487,5,multiple_choice,exam,,I ___ gone earlier.,could have|could of|coulda of,0,,,Of is wrong after could.
+488,5,multiple_choice,exam,,I don't want ___.,none|anything|nothing,1,,,Two negative words together are nonstandard.
+489,7,multiple_choice,exam,,Break the ice is an:,Contraction|Article|Idiom,2,,,Its meaning is not clear from the words alone.
+490,6,multiple_choice,exam,,Nip it in the ___.,bud|butt|but,0,,,Standard idioms keep their exact words.
+491,6,multiple_choice,exam,,Which phrase is redundant?,Nice gift|Free gift|Gift,1,,,A gift is already free.
+492,7,multiple_choice,exam,,Which word names a place?,Quickly|Happy|Kitchen,2,,,"A noun names a person, place, thing or idea."
+493,7,multiple_choice,exam,,Which is an article?,The|Run|Quickly,0,,,"A, an and the are articles."
+494,7,multiple_choice,exam,,Choose the correct phrase.,an hours|an hour|a hour,1,,,Hour starts with a vowel sound.
+495,8,multiple_choice,exam,,Which noun is uncountable?,Apple|Car|Water,2,,,You measure it rather than count it.
+496,8,multiple_choice,exam,,We have ___ chairs than before.,fewer|less|lesser,0,,,Use fewer with countable things.
+497,8,multiple_choice,exam,,There is not ___ time left.,fewer|much|many,1,,,Use much with uncountable nouns.
+498,8,multiple_choice,exam,,A ___ of people came.,amount|quantum|number,2,,,Use number for countable things.
+499,9,multiple_choice,exam,,Which is the plural of cat?,Cats|Cat's|Cat,0,,,Most plurals just add s.
+500,9,multiple_choice,exam,,The ___ toy is old. (one dog),dogs|dog's|dogs',1,,,Singular possessive adds 's.
+501,9,multiple_choice,exam,,The ___ toys are old. (several dogs),dog's|dogs's|dogs',2,,,Plural possessive adds only an apostrophe.
+502,10,multiple_choice,exam,,Which plural is spelled correctly?,Cars|Car's|Cars',0,,,Plurals never take an apostrophe.
+503,10,multiple_choice,exam,,Choose the correct decade.,1980s'|1980s|1980's,1,,,Decades take no apostrophe.
+504,11,multiple_choice,exam,,"Red, white, and blue uses the:",Semicolon|Dash|Oxford comma,2,,,The Oxford comma comes before and.
+505,11,multiple_choice,exam,,Where is the comma? Before dinner we talked.,"Before dinner,|Before,|We,",0,,,Put a comma after an opening phrase.
+506,12,multiple_choice,exam,,Which word is a conjunction?,Table|But|Quickly,1,,,It joins words or sentences.
+507,12,multiple_choice,exam,,Commas can surround:,Essential words|Single letters|Extra information,2,,,They set off information that could be removed.
+508,16,multiple_choice,exam,,A pronoun replaces a:,Noun|Verb|Comma,0,,,"Maria left, so she called."
+509,13,multiple_choice,exam,,"In ""Maria called Jake"", the object is:",Called|Jake|Maria,1,,,The object receives the action.
+510,13,multiple_choice,exam,,Jake and ___ left early.,me|myself|I,2,,,Use I as a subject.
+511,13,multiple_choice,exam,,She called Jake and ___.,me|I|myself,0,,,Use me as an object.
+512,14,multiple_choice,exam,,To ___ did you speak?,whose|whom|who,1,,,He is who; him is whom.
+513,14,multiple_choice,exam,,The car ___ I bought is red.,which|whom|that,2,,,Use that for essential details.
+514,15,multiple_choice,exam,,I cut ___ while cooking.,myself|me|I,0,,,A reflexive pronoun shows an action done to yourself.
+515,15,multiple_choice,exam,,Which word describes an action?,Table|Quickly|Quick,1,,,Adverbs describe actions.
+516,15,multiple_choice,exam,,She sings ___.,good|goodly|well,2,,,"Well is an adverb, so it describes how she sings."
+517,16,multiple_choice,exam,,Which pair agrees?,She walks|She walk|They walks,0,,,A singular subject takes a singular verb.
+518,16,multiple_choice,exam,,Everyone ___ invited.,were|is|are,1,,,Everyone takes a singular verb.
+519,16,multiple_choice,exam,,There ___ three cats.,is|be|are,2,,,The verb matches what follows there.
+520,17,multiple_choice,exam,,Yesterday we ___ to school.,went|go|gone,0,,,It is an irregular verb.
+521,17,multiple_choice,exam,,I ___ my homework yesterday.,doed|did|done,1,,,Did stands alone.
+522,17,multiple_choice,exam,,I have ___ the film.,saw|sawn|seen,2,,,Seen follows have.
+523,18,multiple_choice,exam,,Which uses the present perfect?,Has finished|Finishes|Finished,0,,,Have or has plus a past participle.
+524,18,multiple_choice,exam,,She has ___ home.,go|gone|went,1,,,Gone follows has.
+525,19,multiple_choice,exam,,Which verb needs an object?,Lie|Sit|Lay,2,,,Lay the book down.
+526,19,multiple_choice,exam,,___ your umbrella when you leave.,Take|Bring|Brought,0,,,Take moves something away.
+527,19,multiple_choice,exam,,Please ___ me your pen.,loan to|lend|borrow,1,,,Lend means to give temporarily.
+528,20,multiple_choice,exam,,A comma splice joins sentences with only a:,Period|Dash|Comma,2,,,Use a period or add a joining word.
+529,20,multiple_choice,exam,,Which is a fragment?,Running home|We ran|I ran,0,,,It lacks a subject or verb.
+530,20,multiple_choice,exam,,Which list is parallel?,"Eating, sleep|Eat, sleep|Eat, sleeping",1,,,List items should share the same form.
