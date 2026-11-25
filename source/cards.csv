@@ -16,7 +16,7 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 15,1,multiple_choice,exercise,13,Which shows ownership?,They're late|Their book|Isn't it,1,,,Their book shows whose book it is. They're late is a contraction of they are.
 16,1,true_false,exercise,13,They're is a possessive.,,false,,,False. They're is a contraction of they are. Their is the possessive.
 17,1,true_false,preview,18,Their shows ownership; there points to a place.,,true,,,True. They're is the third one: a contraction of they are.
-18,1,multiple_choice,main,,Which means they are?,Their|There|They're,2,,,"Their shows ownership (their car), there points to a place (over there), and they're is the contraction of they are."
+18,1,multiple_choice,main,,Which means they are?,Their|There|They're,2,,,"Their shows ownership (their car), there points to a place (over there), and they're is the contraction of they are: They're going home."
 19,1,select_blank,exercise,18,___ going to be late.,They're|Their|There,0,,,"They are going to be late, so they're is right."
 20,1,select_blank,exercise,18,That is ___ car.,there|their|they're,1,,,"The car belongs to them, so use the possessive their."
 21,1,select_blank,exercise,18,Put the box over ___.,their|they're|there,2,,,There points to a place.
@@ -24,13 +24,13 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 23,1,true_false,exercise,18,'Their going home' is correct.,,false,,,False. You need they are: They're going home.
 24,1,true_false,exercise,18,There can point to a place.,,true,,,True. Over there and in there both point to a place.
 25,2,true_false,preview,26,"Your, with no apostrophe, shows ownership.",,true,,,True. You're is the contraction of you are.
-26,2,multiple_choice,main,,Which means you are?,Your|You're|You,1,,,"You're is the contraction of you are. Your, with no apostrophe, shows ownership, like your phone."
+26,2,multiple_choice,main,,Which means you are?,Your|You're|You,1,,,"You're is the contraction of you are: You're welcome to join us. Your, with no apostrophe, shows ownership, like your phone."
 27,2,select_blank,exercise,26,___ welcome to join us.,Your|You|You're,2,,,"You are welcome, so use the contraction."
 28,2,select_blank,exercise,26,Is that ___ phone?,your|you're|you,0,,,"The phone belongs to you, so use the possessive your."
 29,2,true_false,exercise,26,'Your welcome' is correct when thanking someone.,,false,,,"False. You mean you are welcome, so write You're welcome."
 30,2,multiple_choice,exercise,26,Which shows ownership?,You're|Your|You,1,,,"Your is the possessive: your coat, your idea."
 31,2,true_false,preview,32,It's is a short form of it is.,,true,,,True. It's can also mean it has.
-32,2,multiple_choice,main,,Which means it is?,Its|Is it|It's,2,,,"It's is a short form of it is (or it has). Its, with no apostrophe, shows ownership, like its tail."
+32,2,multiple_choice,main,,Which means it is?,Its|Is it|It's,2,,,"It's is a short form of it is (or it has): It's raining today, and it's late. Its, with no apostrophe, shows ownership, like its tail."
 33,2,select_blank,exercise,32,The dog wagged ___ tail.,its|it's|it,0,,,"The tail belongs to the dog, so use the possessive its."
 34,2,select_blank,exercise,32,___ raining today.,Its|It's|Is,1,,,"It is raining, so use the contraction."
 35,2,true_false,exercise,32,Its has an apostrophe when it shows ownership.,,false,,,False. Possessive its has no apostrophe. It's always means it is or it has.
@@ -50,7 +50,7 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 49,3,true_false,exercise,44,Too can mean more than enough.,,true,,,"True. Too much, too late and too hot all mean more than enough."
 50,3,true_false,exercise,44,'I'm going too the store' is correct.,,false,,,False. Going toward a place takes to: I'm going to the store.
 51,3,true_false,preview,52,Than is used to compare two things.,,true,,,True. Then is about time or order.
-52,3,multiple_choice,main,,Which word compares things?,Than|Then|Thin,0,,,"Than is used to compare two things (bigger than). Then is about time or order, like first this, then that."
+52,3,multiple_choice,main,,Which word compares things?,Than|Then|Thin,0,,,"Than is used to compare two things (taller than me, better than me). Then is about time or order, like first this, then that."
 53,3,select_blank,exercise,52,She is taller ___ me.,then|than|that,1,,,Than compares two people.
 54,3,select_blank,exercise,52,"First eat, ___ rest.",than|them|then,2,,,Then shows what comes next.
 55,3,true_false,exercise,52,'Better then me' is correct.,,false,,,"False. You are comparing, so write better than me."
@@ -165,7 +165,7 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 164,7,select_blank,exercise,162,I saw ___ dog in the park.,run|a|big,1,,,An article like a comes before the noun dog.
 165,7,multiple_choice,exercise,162,Which word is not an article?,An|The|Dog,2,,,Dog is a noun. An and the are articles.
 166,7,true_false,preview,167,Use an before a vowel sound.,,true,,,True. Use a before a consonant sound.
-167,7,multiple_choice,main,,Which phrase is correct?,An hour|A hour|An house,0,,,"Use an before a vowel sound and a before a consonant sound. Hour starts with a vowel sound, so an hour."
+167,7,multiple_choice,main,,Which phrase is correct?,An hour|A hour|An house,0,,,"Use an before a vowel sound and a before a consonant sound. Hour starts with a vowel sound, so an hour. Also: an apple, an honest man, a unicorn (it starts with a 'you' sound)."
 168,7,select_blank,exercise,167,She ate ___ apple.,a|an|and,1,,,Apple starts with a vowel sound.
 169,7,select_blank,exercise,167,He is ___ honest man.,a|and|an,2,,,Honest starts with a vowel sound because the h is silent.
 170,7,select_blank,exercise,167,I saw ___ unicorn.,a|an|and,0,,,"Unicorn starts with a 'you' sound, a consonant sound, so use a."
@@ -222,14 +222,14 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 221,9,multiple_choice,main,,Which is accepted for names ending in s?,Neither|Only one|Both,2,,,"For names ending in s, style guides differ: James's (Chicago style) and James' (newspaper style). Pick one and stay consistent."
 222,9,true_false,exercise,221,James's is an accepted way to show ownership.,,true,,,True. Many style guides prefer adding 's even after s.
 223,9,true_false,exercise,221,Jame's is correct for James.,,false,,,"False. The apostrophe goes after the whole name, not inside it."
-224,9,select_blank,exercise,221,For names ending in s: Chris___ book.,'s|s'|s,0,,,"Adding 's gives Chris's, which is accepted."
+224,9,select_blank,exercise,221,For names ending in s: Chris___ book.,'s|'es|es,0,,,"Adding 's gives Chris's, which is accepted."
 225,10,true_false,preview,226,Plurals never take an apostrophe.,,true,,,True. A regular plural just adds s.
 226,10,multiple_choice,main,,Which is the correct plural?,Apple's|Apples|Apples',1,,,"Plurals never take an apostrophe: a regular plural just adds s (apples, not apple's). An apostrophe shows ownership or missing letters."
 227,10,select_blank,exercise,226,A plural just adds s: three ___.,pizza's|pizzas'|pizzas,2,,,"Three pizzas is a plain plural, with no apostrophe."
 228,10,true_false,exercise,226,'Two taco's' is correct.,,false,,,False. A plural never needs an apostrophe: two tacos.
 229,10,multiple_choice,exercise,226,Pick the correct sign.,Tomatoes|Tomatoe's|Tomato's,0,,,The plural of tomato is tomatoes.
 230,10,true_false,preview,231,Write 1990s with no apostrophe.,,true,,,True. Decades and short forms take a plain s.
-231,10,multiple_choice,main,,Which is correct?,1990's|1990s|1990s',1,,,"Write decades and acronyms (short forms like DVD) as plurals with no apostrophe: the 1990s, three DVDs."
+231,10,multiple_choice,main,,Which is correct?,1990's|1990s|1990s',1,,,"Write decades and acronyms (short forms like DVD or NASA) as plurals with no apostrophe: the 1990s, three DVDs."
 232,10,select_blank,exercise,231,I own six ___.,DVD's|Dvds|DVDs,2,,,A plural short form just adds a lowercase s.
 233,10,true_false,exercise,231,The 1980's is the correct way.,,false,,,False. Write the 1980s with no apostrophe.
 234,10,multiple_choice,exercise,231,A short form made from first letters?,Acronym|Contraction|Possessive,0,,,"An acronym is formed from the first letters, like DVD."
@@ -309,7 +309,7 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 308,15,true_false,exercise,305,Quickly is an adjective.,,false,,,"False. Quickly describes an action, so it is an adverb."
 309,15,true_false,exercise,305,A good idea uses an adjective.,,true,,,True. Good describes the noun idea.
 310,15,true_false,preview,311,Use well to describe how an action is done.,,true,,,True. Good describes a noun.
-311,15,select_blank,main,,She sings ___.,well|good|goodly,0,,,Good is an adjective that describes a noun (a good song); well is an adverb (sings well). Well can also mean healthy.
+311,15,select_blank,main,,She sings ___.,well|good|goodly,0,,,Use well to describe how an action is done (she sings well). Good is an adjective that describes a noun (a good song). Well can also mean healthy.
 312,15,select_blank,exercise,311,That is a ___ idea.,well|good|goodly,1,,,Good describes the noun idea.
 313,15,select_blank,exercise,311,He plays ___.,good|goodly|well,2,,,"Well describes how he plays, so it is an adverb."
 314,15,true_false,exercise,311,'He runs good' is correct.,,false,,,False. Describe the action with an adverb: He runs well.

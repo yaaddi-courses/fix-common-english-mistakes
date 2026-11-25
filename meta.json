@@ -4,7 +4,7 @@
   "description": "Stop the everyday mistakes native speakers still make: sound-alike words, apostrophes, commas, I vs me, less vs fewer, and more. Short American English lessons you can use in texts, emails and work.",
   "image": "cover.png",
   "file": "fix-common-english-mistakes.zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "tags": [
     "english",
     "grammar",
@@ -16,6 +16,11 @@
       "version": "1.0.0",
       "date": "2026-10-01",
       "notes": "Initial release - 20 decks, 73 packs, 465 cards: sound-alike words, American usage traps, counting and articles, apostrophes and commas, pronouns, verbs and sentence structure."
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-11-24",
+      "notes": "Clearer wording on a few cards so each question has one clear answer."
     }
   ],
   "toc": [
